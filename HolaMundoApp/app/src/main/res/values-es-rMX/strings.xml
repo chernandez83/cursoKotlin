@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola Mundo App</string>
+    <string name="welcome">¡Bienvenid@!</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="submit">Enviar</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstFragmentExample</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="textFragment">Fragment text</string>
+</resources>
